@@ -1,25 +1,25 @@
 {
   "name": "angular-webpack-starter",
   "version": "0.0.0",
-  "description": "Seed project to start ES6, Angular 1.4, ngNewRouter, and Webpack, WebPack Dev Server, & NodeJS",
-  "repository": "",
+  "description": "Seed project to start ES6, Angular 1.5, ngNewRouter, and Webpack, WebPack Dev Server, & NodeJS",
+  "repository": "ldeck/angular-webpack-starter",
   "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node node_modules/.bin/webpack-dev-server --content-base www"
   },
-  "author": "Justin Winthers",
+  "author": "Lachlan Deck",
   "license": "ISC",
   "dependencies": {
-    "angular": "^1.4.3",
+    "angular": "^1.5.3",
     "angular-new-router": "^0.5.3",
-    "angular-route": "^1.4.3",
-    "body-parser": "^1.13.2",
-    "bootstrap": "^3.3.5",
-    "compression": "^1.5.1",
-    "express": "^4.13.1",
-    "jquery": "^2.1.4",
-    "morgan": "^1.6.1"
+    "angular-route": "^1.5.3",
+    "body-parser": "^1.15.0",
+    "bootstrap": "^3.3.6",
+    "compression": "^1.6.1",
+    "express": "^4.13.4",
+    "jquery": "^2.2.2",
+    "morgan": "^1.7.0"
   },
   "devDependencies": {
     "babel-core": "^5.8.14",
